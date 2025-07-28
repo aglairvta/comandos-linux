@@ -1,4 +1,4 @@
-# Comandos Linux
+# Linux Comandos
 
 > [!NOTE]
 > Site para praticar comandos Linux.
